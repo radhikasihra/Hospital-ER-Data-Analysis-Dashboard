@@ -42,7 +42,7 @@ The dashboard provides insights into patient volume, average waiting time, patie
 ## 📁 Files
 
 - `dashboard.png` – Final dashboard preview
-- `project.xlsx` – Dataset used for the analysis
+- `hospital_er_dataset.xlsx` – Dataset used for the analysis
 
 ## 💡 Skills Demonstrated
 
