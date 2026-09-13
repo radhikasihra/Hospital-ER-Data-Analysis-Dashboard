@@ -33,8 +33,10 @@ The dashboard provides insights into patient volume, average waiting time, patie
 
 ## 🛠️ Tools Used
 
-- Microsoft Power BI
 - Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
 - Data Cleaning
 - Data Visualization
 - Dashboard Design
